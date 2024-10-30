@@ -1,0 +1,12 @@
+[ERROR] [2023-03-23 11:48:42] [Wrong name: New Text Document.txt]
+[ERROR] [2023-03-23 11:48:42] [Ivalid time.]
+[ERROR] [2023-03-23 11:48:42] [Wrong name: proba_fail]
+[ERROR] [2023-03-23 11:48:42] [Ivalid time.]
+
+Open IMP_CUSTOMER_DATA_20230214183755.txt
+[ERROR] [2023-03-23 11:48:42] [05;EXT6;16022023;89.00;BankTransf;BGN]
+[ERROR] [2023-03-23 11:48:42] [Row type is not valid.]
+
+Open IMP_CUSTOMER_DATA_20230314183755.txt
+[ERROR] [2023-03-23 11:48:42] [05;EXT9;16032023;99.00;BankTransf;BGN]
+[ERROR] [2023-03-23 11:48:42] [Row type is not valid.]

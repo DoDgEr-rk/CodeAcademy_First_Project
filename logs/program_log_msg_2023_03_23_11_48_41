@@ -1,0 +1,95 @@
+[2023-03-23 11:48:41] [Connecting to oracle databasa.]
+[2023-03-23 11:48:42] [Fill file names from the directory in vector.]
+[2023-03-23 11:48:42] [Vector with file names is ready.]
+[2023-03-23 11:48:42] [Validate file name: IMP_CUSTOMER_DATA_20230214183755.txt]
+[2023-03-23 11:48:42] [Validate file name: IMP_CUSTOMER_DATA_20230314183755.txt]
+[2023-03-23 11:48:42] [Validate file name: New Text Document.txt]
+[2023-03-23 11:48:42] [Validate file name: proba_fail]
+[2023-03-23 11:48:42] [Open file KO or OK.]
+[2023-03-23 11:48:42] [Open file KO or OK.]
+
+Open IMP_CUSTOMER_DATA_20230214183755.txt
+
+[2023-03-23 11:48:42] [01;;EXT6;Rosen;SIMOVA;f;;BULGARIA;5000;ivvvv45@jjj.gg
+]
+[2023-03-23 11:48:42] [Validate row type.]
+[2023-03-23 11:48:42] [Row type is valid.]
+[2023-03-23 11:48:42] [Validate row start with number 1.]
+[2023-03-23 11:48:42] [The row is valid.]
+[2023-03-23 11:48:42] [Working with Customers data.]
+[2023-03-23 11:48:42] [Make Select fot External Customer ID :EXT6]
+[2023-03-23 11:48:42] [Make Update in Customers table by External Customer ID: EXT6.]
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Row by ExtID updated in Customers.]
+
+[2023-03-23 11:48:42] [02;EXT6;15022023;89.00;BGN;
+]
+[2023-03-23 11:48:42] [Validate row type.]
+[2023-03-23 11:48:42] [Row type is valid.]
+[2023-03-23 11:48:42] [Validate row start with number 2.]
+[2023-03-23 11:48:42] [The row is valid.]
+[2023-03-23 11:48:42] [Make Select fot External Customer ID :EXT6]
+[2023-03-23 11:48:42] [Make Insert in Invoices table by External Customer ID: EXT6.]
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Row inserted in Invoices.]
+
+[2023-03-23 11:48:42] [03;EXT6;16022023;89.00;BankTransf;BGN;
+]
+[2023-03-23 11:48:42] [Validate row type.]
+[2023-03-23 11:48:42] [Row type is valid.]
+[2023-03-23 11:48:42] [Validate row start with number 2.]
+[2023-03-23 11:48:42] [The row is valid.]
+[2023-03-23 11:48:42] [Make Select fot External Customer ID :EXT6]
+[2023-03-23 11:48:42] [Make Insert in Payments table by External Customer ID: EXT6.]
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Row inserted in Payments.]
+
+[2023-03-23 11:48:42] [05;EXT6;16022023;89.00;BankTransf;BGN]
+[2023-03-23 11:48:42] [Validate row type.]
+
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Rename and move IMP_CUSTOMER_DATA_20230214183755.txt]
+[2023-03-23 11:48:42] [Open file KO or OK.]
+[2023-03-23 11:48:42] [Open file KO or OK.]
+
+Open IMP_CUSTOMER_DATA_20230314183755.txt
+
+[2023-03-23 11:48:42] [01;;EXT9;RosenRos;SIMOVA;f;;BULGARIA;5000;ivvvv45@jjj.gg
+]
+[2023-03-23 11:48:42] [Validate row type.]
+[2023-03-23 11:48:42] [Row type is valid.]
+[2023-03-23 11:48:42] [Validate row start with number 1.]
+[2023-03-23 11:48:42] [The row is valid.]
+[2023-03-23 11:48:42] [Working with Customers data.]
+[2023-03-23 11:48:42] [Make Select fot External Customer ID :EXT9]
+[2023-03-23 11:48:42] [Make Update in Customers table by External Customer ID: EXT9.]
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Row by ExtID updated in Customers.]
+
+[2023-03-23 11:48:42] [02;EXT9;15032023;99.00;BGN;
+]
+[2023-03-23 11:48:42] [Validate row type.]
+[2023-03-23 11:48:42] [Row type is valid.]
+[2023-03-23 11:48:42] [Validate row start with number 2.]
+[2023-03-23 11:48:42] [The row is valid.]
+[2023-03-23 11:48:42] [Make Select fot External Customer ID :EXT9]
+[2023-03-23 11:48:42] [Make Insert in Invoices table by External Customer ID: EXT9.]
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Row inserted in Invoices.]
+
+[2023-03-23 11:48:42] [03;EXT9;16032023;99.00;BankTransf;BGN;
+]
+[2023-03-23 11:48:42] [Validate row type.]
+[2023-03-23 11:48:42] [Row type is valid.]
+[2023-03-23 11:48:42] [Validate row start with number 2.]
+[2023-03-23 11:48:42] [The row is valid.]
+[2023-03-23 11:48:42] [Make Select fot External Customer ID :EXT9]
+[2023-03-23 11:48:42] [Make Insert in Payments table by External Customer ID: EXT9.]
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Row inserted in Payments.]
+
+[2023-03-23 11:48:42] [05;EXT9;16032023;99.00;BankTransf;BGN]
+[2023-03-23 11:48:42] [Validate row type.]
+
+[2023-03-23 11:48:42] [Committing]
+[2023-03-23 11:48:42] [Rename and move IMP_CUSTOMER_DATA_20230314183755.txt]
